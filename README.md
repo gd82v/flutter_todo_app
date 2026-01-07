@@ -10,9 +10,9 @@
 - Удаление задачи
 
 ## Скриншоты
-![Screenshot 1](<img width="695" height="914" alt="T-DL_1" src="https://github.com/user-attachments/assets/f5123950-609c-43ac-a00d-d50cf3843ce5" />)
-![Screenshot 2](<img width="698" height="911" alt="T-DL_2" src="https://github.com/user-attachments/assets/3cc95784-3d62-490c-a470-a5fdf3fe0f6c" />)
-![Screenshot 3](<img width="697" height="913" alt="T-DL_3" src="https://github.com/user-attachments/assets/a8cf8517-d299-45bf-b708-2ea48f064827" />)
+![Screenshot 1](T-DL_1.png)
+![Screenshot 2](T-DL_2.png)
+![Screenshot 3](T-DL_3.png)
 
 ## Запуск проекта
 ```bash
