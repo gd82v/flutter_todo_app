@@ -1,16 +1,20 @@
-# to_do_list
+# Read me T-DL
 
-A new Flutter project.
+Приложение T-DL (To-Do List) предназначено для создание и удаление заметок. Пользователь может добавлять, удалять, помечать задачи как выполненные и создавать списки задач. На 1 (и единственном) экране пользователь увидит окно для ввода заданий, под ним список задач и окошки для отметки. Выполненные задачи будут перечеркиваться и становиться серыми. 
+Список задач будет выглядеть как таблица (номер, содержание, выполнина ли). Данные id - содержат в себе номер задачи. Данные title - содержат название/ тресц задачи. Данные isDone - показывают выполнена ли задача.
 
-## Getting Started
+## Возможности
+- Просмотр списка задач
+- Добавление новой задачи
+- Отметка задачи как выполненной
+- Удаление задачи
 
-This project is a starting point for a Flutter application.
+## Скриншоты
+![Screenshot 1](<img width="695" height="914" alt="T-DL_1" src="https://github.com/user-attachments/assets/f5123950-609c-43ac-a00d-d50cf3843ce5" />)
+![Screenshot 2](<img width="698" height="911" alt="T-DL_2" src="https://github.com/user-attachments/assets/3cc95784-3d62-490c-a470-a5fdf3fe0f6c" />)
+![Screenshot 3](<img width="697" height="913" alt="T-DL_3" src="https://github.com/user-attachments/assets/a8cf8517-d299-45bf-b708-2ea48f064827" />)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Запуск проекта
+```bash
+flutter pub get
+flutter run
